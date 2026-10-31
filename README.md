@@ -2,9 +2,9 @@
 
 A personal video-game backlog tracker with a one-button Steam import.
 
-**Repository:** (https://github.com/ZelhaDev/GameOverIt)
+**Repository:** https://github.com/ZelhaDev/GameOverIt
 
-**Live site:** (https://zelhadev.github.io/)
+**Live site:** [https://zelhadev.github.io/](https://zelhadev.github.io/GameOverIt/)
 
 ## AI usage
 
